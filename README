@@ -1,0 +1,21 @@
+unixtools
+---------
+
+- Summery -
+
+This is a small collection of applications found in various UNIX and UNIX-Like
+Operating System sources.
+
+- Applications -
+
+Tool   | Type | Source | License
+--------------------------------
+number | Game | Minix  | BSD 3
+snake  | Game | Minix  | BSD 3
+
+- Tested -
+
+Tool   | macOS | FreeBSD | Linux | gmake | bmake
+------------------------------------------------
+number | yes   | ?       | ?     | yes   | yes
+snake  | yes   | ?       | ?     | yes   | no
